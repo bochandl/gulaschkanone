@@ -1,26 +1,25 @@
 German                English
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
-Klimaanlage
-Rammstein
-Porsche
-BMW
-Biergarten
-Ratskeller
-Dirndel
-Lederhose
-Schloss
-wettbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund
-Doener
-Apfelkuchen
-Schloss
-Eltz
-        
+Raesfeld              Raesfeld (A city in Germany)
+Flughafen             Airport
+Berlin                Berlin (A city in Germany)
+Bratwurst             Bratwurst (Loaned into English)
+Hauptstrasse          Main Street
+Brot                  Bread
+Klimaanlage           Air Conditioning
+Rammstein             Rammstein (A band)
+Porsche               Porsche (A brand of car)
+BMW                   Bavarian Motor Works (A brand of car)
+Biergarten            Beer garden
+Ratskeller            Ratskeller (Loaned into English) (Approx. "speakeasy")
+Dirndel               A type of dress
+Lederhose             Lederhose (A city in Germany)
+Schloss               Castle
+wettbewerbsfaehig     Competitive
+Mehlhase              A surname
+Gebaeck               Pastry
+Baeckerei             Bakery
+Hund                  Dog
+Doener                A type of cooked meat of Turkish origin
+Apfelkuchen           Apple pie
+Schloss               Castle
+Eltz                  A specific castle in Western Germany, specifically in the Rhineland
